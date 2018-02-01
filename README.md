@@ -1,3 +1,6 @@
-# LRS
-A Learning Restore System at 2018/2/1.
-version:1.0.0
+
+
+## Requirements
+- Redis ^2.8.11
+- MongoDB ^3.2
+- Node.js ^6.11.3
