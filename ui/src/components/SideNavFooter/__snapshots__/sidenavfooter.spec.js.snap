@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders help link 1`] = `
+<div
+  className="sidenav-footer"
+>
+  <a
+    href="http://www.starc.com.cn"
+  >
+    Help centre
+  </a>
+  <div>
+    Powered by
+  </div>
+  <a
+    href="http://www.starc.com.cn"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Learning Locker Cloud
+  </a>
+</div>
+`;
